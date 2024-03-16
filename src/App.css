@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .app {
+   
+    height: 2000px;
+   width: 2000px;
+    
+  }
+  
+  /* Light theme styles */
+  .app.light {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  /* Dark theme styles */
+  .app.dark {
+    background-color: #222;
+    color: #fff;
+  }
